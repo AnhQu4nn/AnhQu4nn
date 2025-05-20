@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjl0bTBmcHA0aXRqbDRkcW00djJ2MGx2eGN1OHdibWRmaXNuOG1tcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pL6mkjytFkTlekNMtM/giphy.gif" alt="Bienvenue" width="100%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjl0bTBmcHA0aXRqbDRkcW00djJ2MGx2eGN1OHdibWRmaXNuOG1tcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pL6mkjytFkTlekNMtM/giphy.gif" alt="Bienvenue" width="80%">
 </div>
 
 # 💫 Hello, Welcome to my Profile 🚀:
