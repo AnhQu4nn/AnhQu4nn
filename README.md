@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/g0OT8JBFRc8SY/giphy.gif" alt="Bienvenue" width="100%">
+</div>
+
 # 💫 Hello, Welcome to my Profile 🚀:
 👨‍💻 About Me<br>🔭 I’m currently working on:<br>Research & side projects involving CVRP optimization, YOLO-based image recognition, and learning how to fine-tune LLMs for Vietnamese tasks.<br><br>🌟 I’m looking to collaborate on:<br>Any AI/NLP/ML-related projects, especially those using transformers, language models, or practical applications in Vietnamese language processing.<br><br>🤝 I’m looking for help with:<br>Fine-tuning LLMs efficiently, prompt engineering, and understanding advanced NLP architectures.<br><br>🌱 I’m currently learning:<br><br>Deep Learning (PyTorch & TensorFlow)<br><br>NLP with Hugging Face Transformers<br><br>Leveling up on LeetCode and math for ML<br><br>⚡ Fun fact:<br>I started learning AI because I wanted to build something “cool” with Vietnamese language – and it just snowballed from there 🚀
 
